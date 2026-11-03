@@ -1,6 +1,8 @@
 # Material original y herramientas externas (solo local)
 /original/
 /tools/gdre/
+/tools/w64devkit/
+/tools/w64devkit-dl/
 /tools/harness/run/
 /tools/harness/project/lib/
 *.exe
