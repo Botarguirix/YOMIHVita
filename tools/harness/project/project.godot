@@ -1,0 +1,6 @@
+config_version=4
+
+[application]
+
+config/name="tbfg-harness"
+run/main_scene="res://main.tscn"

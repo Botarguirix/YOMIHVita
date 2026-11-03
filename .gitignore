@@ -1,0 +1,28 @@
+# Material original y herramientas externas (solo local)
+/original/
+/tools/gdre/
+/tools/harness/run/
+/tools/harness/project/lib/
+*.exe
+*.dll
+*.so
+*.suprx
+*.pck
+*.vpk
+*.zip
+*.7z
+# Compilacion y caches
+build/
+build-*/
+.godot/
+.import/
+__pycache__/
+*.pyc
+*.log
+# Credenciales y configuracion personal
+.env
+.env.*
+!.env.example
+.claude/settings.local.json
+.DS_Store
+Thumbs.db
